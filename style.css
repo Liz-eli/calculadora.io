@@ -20,7 +20,7 @@ body {
 }
 
 .contenido h1{
-    color: rgb(3, 3, 5);
+    color: rgb(43, 43, 182);
 }
 
 #calculadora {
@@ -31,7 +31,7 @@ body {
 }
 
 #detalle {
-    background: #3734eb; 
+    background: rgb(123, 182, 206); 
     width: 50%;
     height: 100%;
     float: left;
