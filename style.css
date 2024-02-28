@@ -80,7 +80,7 @@ button:active {
 }
 
 #error {
-    color: rgb(0, 255, 195);
+    color: rgb(255, 0, 0);
     font-weight: bold;
     display: none;
 }
@@ -91,4 +91,7 @@ button:active {
     font-size: 25px;
     margin-bottom: 5px;
     display: none;
+}
+#item {
+    color: rgb(43, 43, 182);
 }
